@@ -17,7 +17,7 @@ function App() {
     <DropdownSubmenu title='Opción 3'>
       <Dropdown.Item href="#/action-2">Opción A</Dropdown.Item>
     </DropdownSubmenu>
-    <Dropdown.Item href="#/action-3">Opción 4</Dropdown.Item>
+    <Dropdown.Item href="#/action-3">Opción  4</Dropdown.Item>
   </Dropdown.Menu>
 </Dropdown>
   );
